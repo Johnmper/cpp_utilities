@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_terminal_style.dir/terminal/style/test_style.cpp.o  -o test_terminal_style -rdynamic 

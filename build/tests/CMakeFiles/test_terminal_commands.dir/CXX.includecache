@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/terminal/commands.hpp
+
+/home/johnmper/Documents/gits/cpp_utilities/tests/terminal/commands/test_commands.cpp
+iostream
+-
+terminal/commands.hpp
+-
+

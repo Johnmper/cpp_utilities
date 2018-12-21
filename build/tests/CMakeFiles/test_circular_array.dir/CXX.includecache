@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/containers/circular_array.hpp
+iostream
+-
+cstring
+-
+cstddef
+-
+
+/home/johnmper/Documents/gits/cpp_utilities/tests/containers/circular_array/test_circular_array.cpp
+iostream
+-
+containers/circular_array.hpp
+-
+
