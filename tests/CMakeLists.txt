@@ -7,7 +7,8 @@ macro(add_unique_test arg1 arg2)
 endmacro(add_unique_test)
 
 ## Compiler Flags
-add_compile_options(-std=c++11 -O3)
+add_compile_options(-std=c++11)
+
 
 add_unique_test("circular_array" "containers/circular_array/test_circular_array.cpp")
 

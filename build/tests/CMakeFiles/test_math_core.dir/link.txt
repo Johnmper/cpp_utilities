@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/test_math_core.dir/math/core/test_core.cpp.o  -o test_math_core -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/test_log_core.dir/log/core/test_core.cpp.o  -o test_log_core -rdynamic 
